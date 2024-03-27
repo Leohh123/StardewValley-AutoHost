@@ -1,0 +1,10 @@
+{
+  "Name": "AutoHost",
+  "Author": "Leohh",
+  "Version": "1.0.0",
+  "Description": "Auto host player MOD for Stardew Vally",
+  "UniqueID": "leohh.autohost",
+  "EntryDll": "autohost.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
