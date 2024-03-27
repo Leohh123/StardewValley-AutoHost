@@ -1,0 +1,8 @@
+D:\workspace\AutoHost\AutoHost\bin\Release\net6.0\AutoHost.deps.json
+D:\workspace\AutoHost\AutoHost\bin\Release\net6.0\AutoHost.dll
+D:\workspace\AutoHost\AutoHost\obj\Release\net6.0\AutoHost.csproj.AssemblyReference.cache
+D:\workspace\AutoHost\AutoHost\obj\Release\net6.0\AutoHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\AutoHost\AutoHost\obj\Release\net6.0\AutoHost.AssemblyInfoInputs.cache
+D:\workspace\AutoHost\AutoHost\obj\Release\net6.0\AutoHost.AssemblyInfo.cs
+D:\workspace\AutoHost\AutoHost\obj\Release\net6.0\AutoHost.csproj.CoreCompileInputs.cache
+D:\workspace\AutoHost\AutoHost\obj\Release\net6.0\AutoHost.dll
